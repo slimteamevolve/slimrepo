@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<channels>
+<channel>
+<name>Golf Tutorials</name>
+<poster>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/poster.png</poster>
+<thumbnail>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/golftutorials.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/golfingtutorials.xml</externallink>
+<fanart>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Great Golfing Moments</name>
+<poster>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/poster.png</poster>
+<thumbnail>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/golfingmoments.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/golfingmoments.xml</externallink>
+<fanart>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Live Golfing Events</name>
+<poster>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/poster.png</poster>
+<thumbnail>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/livegolfevents.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/livegolfevents.xml</externallink>
+<fanart>https://raw.githubusercontent.com/slimteamevolve/slimrepo/master/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+</channels>
